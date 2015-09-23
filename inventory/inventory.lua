@@ -74,5 +74,13 @@ inventory = {
       "Concentrated Essence Berry",
       "Chain Equipment"
     }
+  },
+  { -- inventory 3
+    { -- side 1
+      "Sugar Charcoal",
+    },
+    { -- side 2
+      
+    }
   }
 }
