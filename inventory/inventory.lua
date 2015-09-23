@@ -78,9 +78,24 @@ inventory = {
   { -- inventory 3
     { -- side 1
       "Sugar Charcoal",
+	  "Heart of Undead",
+	  "Large Whitestone Bricks",
+	  "Copper Ingot",
+	  "Pumpkin",
+	  "Netherrack",
+	  "Aluminum Ingot",
+	  "Nothing Yet",
+	  "Pumpkin Seeds",
+	  "Heart of Darkness",
+	  "Creeper Head",
+	  "UuMatter Cell",
+	  "Glass Bottle",
+	  "Nothing Yet",
+	  "Tin Ingot",
+	  "Nothing Yet",
     },
     { -- side 2
-      
+      "Nothing Yet",
     }
   }
 }
